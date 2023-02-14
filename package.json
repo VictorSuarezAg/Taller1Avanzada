@@ -1,0 +1,26 @@
+{
+  "name": "taller1avanzada",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorSuarezAg/Taller1Avanzada.git"
+  },
+  "keywords": [
+    "Funcion",
+    "tradicional",
+    "flcha",
+    "arreglos",
+    "objetos"
+  ],
+  "author": "Victor Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorSuarezAg/Taller1Avanzada/issues"
+  },
+  "homepage": "https://github.com/VictorSuarezAg/Taller1Avanzada#readme"
+}
