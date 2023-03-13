@@ -6,10 +6,8 @@
 
 Este es el taller de 10 ejercicios de javascript avanzado para realizarlos de manera tradicional y con funciones en flecha
 
-```
+
 ___
 Para ejecutar los ejercicios se debe descargar el proyecto y en la terminal correr el comando 
 `node <nombreEjercicio>.js`
-
-```
 ___
